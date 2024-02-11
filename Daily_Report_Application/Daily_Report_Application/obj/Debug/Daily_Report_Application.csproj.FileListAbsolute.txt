@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Basic_C#_Programs\Daily_Report_Application\Daily_Report_Application\bin\Debug\Daily_Report_Application.exe.config
+C:\Users\admin\Desktop\Basic_C#_Programs\Daily_Report_Application\Daily_Report_Application\bin\Debug\Daily_Report_Application.exe
+C:\Users\admin\Desktop\Basic_C#_Programs\Daily_Report_Application\Daily_Report_Application\bin\Debug\Daily_Report_Application.pdb
+C:\Users\admin\Desktop\Basic_C#_Programs\Daily_Report_Application\Daily_Report_Application\obj\Debug\Daily_Report_Application.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Basic_C#_Programs\Daily_Report_Application\Daily_Report_Application\obj\Debug\Daily_Report_Application.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Basic_C#_Programs\Daily_Report_Application\Daily_Report_Application\obj\Debug\Daily_Report_Application.exe
+C:\Users\admin\Desktop\Basic_C#_Programs\Daily_Report_Application\Daily_Report_Application\obj\Debug\Daily_Report_Application.pdb
