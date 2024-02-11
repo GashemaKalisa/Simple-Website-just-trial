@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp for do_dowhile", "ConsoleApp for do_dowhile\ConsoleApp for do_dowhile.csproj", "{C50995BA-672D-4910-9A98-EE67C7119612}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C50995BA-672D-4910-9A98-EE67C7119612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C50995BA-672D-4910-9A98-EE67C7119612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C50995BA-672D-4910-9A98-EE67C7119612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C50995BA-672D-4910-9A98-EE67C7119612}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {615584DC-722D-4692-9CBC-E87E28D28B14}
+	EndGlobalSection
+EndGlobal

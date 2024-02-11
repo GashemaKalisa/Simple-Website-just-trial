@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Basic_C#_Programs\ConsoleApp for do_dowhile\ConsoleApp for do_dowhile\bin\Debug\ConsoleApp for do_dowhile.exe.config
+C:\Users\admin\Desktop\Basic_C#_Programs\ConsoleApp for do_dowhile\ConsoleApp for do_dowhile\bin\Debug\ConsoleApp for do_dowhile.exe
+C:\Users\admin\Desktop\Basic_C#_Programs\ConsoleApp for do_dowhile\ConsoleApp for do_dowhile\bin\Debug\ConsoleApp for do_dowhile.pdb
+C:\Users\admin\Desktop\Basic_C#_Programs\ConsoleApp for do_dowhile\ConsoleApp for do_dowhile\obj\Debug\ConsoleApp for do_dowhile.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Basic_C#_Programs\ConsoleApp for do_dowhile\ConsoleApp for do_dowhile\obj\Debug\ConsoleApp for do_dowhile.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Basic_C#_Programs\ConsoleApp for do_dowhile\ConsoleApp for do_dowhile\obj\Debug\ConsoleApp for do_dowhile.exe
+C:\Users\admin\Desktop\Basic_C#_Programs\ConsoleApp for do_dowhile\ConsoleApp for do_dowhile\obj\Debug\ConsoleApp for do_dowhile.pdb
