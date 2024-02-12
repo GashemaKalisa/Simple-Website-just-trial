@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\ConsoleApp_Array_Assignment\ConsoleApp_Array_Assignment\obj\Debug\ConsoleApp_Array_Assignment.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ConsoleApp_Array_Assignment\ConsoleApp_Array_Assignment\obj\Debug\ConsoleApp_Array_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ConsoleApp_Array_Assignment\ConsoleApp_Array_Assignment\bin\Debug\ConsoleApp_Array_Assignment.exe.config
+C:\Users\admin\source\repos\ConsoleApp_Array_Assignment\ConsoleApp_Array_Assignment\bin\Debug\ConsoleApp_Array_Assignment.exe
+C:\Users\admin\source\repos\ConsoleApp_Array_Assignment\ConsoleApp_Array_Assignment\bin\Debug\ConsoleApp_Array_Assignment.pdb
+C:\Users\admin\source\repos\ConsoleApp_Array_Assignment\ConsoleApp_Array_Assignment\obj\Debug\ConsoleApp_Array_Assignment.exe
+C:\Users\admin\source\repos\ConsoleApp_Array_Assignment\ConsoleApp_Array_Assignment\obj\Debug\ConsoleApp_Array_Assignment.pdb
