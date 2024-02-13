@@ -24,7 +24,7 @@ namespace Branching_Assignment
                 decimal package_height = Convert.ToDecimal (Console.ReadLine()); //requesting user to enter a height
                 Console.WriteLine("enter package length");
                decimal package_length = Convert.ToDecimal(Console.ReadLine()); //requesting user to enter a length
-               decimal dimensions = package_width * package_height * package_length;
+               decimal dimensions = package_width + package_height + package_length;
                 if (dimensions > 50)
                 {
                     Console.WriteLine("Package too heavy to be shipped via Package Express.");
