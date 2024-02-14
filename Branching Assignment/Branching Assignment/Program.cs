@@ -31,10 +31,18 @@ namespace Branching_Assignment
                 }
                 else if (dimensions < 50)
                 {
-                   decimal estimated_total = (dimensions * package_weight) / 100;
+                    decimal dimensional_product= package_width * package_height * package_length;
+                   decimal estimated_total = (dimensional_product * package_weight) / 100;
 
                     Console.WriteLine("Your estimated total for shipping this package is $"+estimated_total);
                 }
+                else{
+                    Console.WriteLine("Please enter a number");
+                }
+                
+            }
+            else{
+                Console.WriteLine("Please enter a number for Product weight");
             }
 
 
