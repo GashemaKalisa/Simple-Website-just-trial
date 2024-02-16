@@ -10,8 +10,9 @@ namespace Assignment_Submission
     {
         //crate a method that takes two intergers as parameters
         //Make on parameter optional by providing a default value
-        public int Calculation(int i, int j)
+        public int Calculation(int i=20, int j=4)
         {
+            Console.WriteLine(j);
             int product = i * j;
             //int sum = i + j;
             //int Quatient = i / j;
