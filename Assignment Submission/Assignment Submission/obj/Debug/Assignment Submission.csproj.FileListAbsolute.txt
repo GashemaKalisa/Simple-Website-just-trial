@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\Basic_C#_Programs\Assignment Submission\Assignment Submission\bin\Debug\Assignment Submission.exe.config
+C:\Users\admin\Desktop\Basic_C#_Programs\Assignment Submission\Assignment Submission\bin\Debug\Assignment Submission.exe
+C:\Users\admin\Desktop\Basic_C#_Programs\Assignment Submission\Assignment Submission\bin\Debug\Assignment Submission.pdb
+C:\Users\admin\Desktop\Basic_C#_Programs\Assignment Submission\Assignment Submission\obj\Debug\Assignment Submission.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Basic_C#_Programs\Assignment Submission\Assignment Submission\obj\Debug\Assignment Submission.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Basic_C#_Programs\Assignment Submission\Assignment Submission\obj\Debug\Assignment Submission.exe
+C:\Users\admin\Desktop\Basic_C#_Programs\Assignment Submission\Assignment Submission\obj\Debug\Assignment Submission.pdb
