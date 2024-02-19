@@ -12,11 +12,7 @@ namespace Assignment_Submission
         {
             //Instantiate MathOperation1 class
             Mathoperation numbers = new Mathoperation();
-          //Method that display second integer
-            Console.WriteLine("The scond number: ");
-            
-            
-            Console.WriteLine("The Product is: "+numbers.Calculation());
+             numbers.Calculation();
             Console.ReadLine();
             
             
