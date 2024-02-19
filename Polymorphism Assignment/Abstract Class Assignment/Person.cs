@@ -12,7 +12,7 @@ namespace Abstract_Class_Assignment
         public string Country { get; set; }
         public string city { get; set; }
         //Give it the method Quit().
-        public  void Quit();
+        public abstract void Quit();
     }
 }
 
