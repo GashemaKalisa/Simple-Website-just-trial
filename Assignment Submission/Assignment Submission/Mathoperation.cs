@@ -12,15 +12,13 @@ namespace Assignment_Submission
         //Make on parameter optional by providing a default value
         public int Calculation(int i=20, int j=4)
         {
+            console.WriteLine("Then secind number is ");
             Console.WriteLine(j);
             int product = i * j;
-            //int sum = i + j;
-            //int Quatient = i / j;
-            //int different = i - j;
+            Console.WriteLine("The product is ");
+            Console.WriteLine("product");
             return product;
-            //return sum;
-            //return Quatient;
-            //return different;
+           
         }
     }
 }
