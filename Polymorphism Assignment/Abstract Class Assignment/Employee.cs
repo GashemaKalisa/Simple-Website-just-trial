@@ -12,9 +12,9 @@ namespace Abstract_Class_Assignment
         public int Id { get; set; }
       
         //Implement the Quit() method inside of the Employee class
-        public void Quit()
+        public override void Quit()
         {
-            Console.WriteLine("He live in"+ Country+ " in the city of "+ city);
+            Console.WriteLine("He live in "+ Country+ " in the city of "+ city);
         }
            
         
