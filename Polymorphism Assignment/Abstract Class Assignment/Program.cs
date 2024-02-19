@@ -12,7 +12,7 @@ namespace Abstract_Class_Assignment
         {
             //In the Main method, instaiate an Employee object
             Employee Social = new Employee() { Country = "Canada", city = "Ottawa" };
-            //Call the SayName method on the object
+            //Call the Quit method on the object
             Social.Quit();
             Console.ReadLine();
         }
