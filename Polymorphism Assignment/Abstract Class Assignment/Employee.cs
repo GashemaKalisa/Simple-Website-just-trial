@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Abstract_Class_Assignment
 {
     //Interface inheritance for the class Employee
-    public class Employee : IQuittable
+    public class Employee : Person
     {
         public int Id { get; set; }
       
