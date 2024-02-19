@@ -11,7 +11,7 @@ namespace Abstract_Class_Assignment
         static void Main(string[] args)
         {
             //In the Main method, instaiate an Employee object
-            Employee Social = new Employee() { Country = "Canada", city = "Ottawa" };
+            IQuittable Social = new Employee() { Country = "Canada", city = "Ottawa" };
             //Call the Quit method on the object
             Social.Quit();
             Console.ReadLine();
