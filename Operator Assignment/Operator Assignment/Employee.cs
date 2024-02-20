@@ -25,7 +25,7 @@ namespace Operator_Assignment
             //this.FirstNames = FirstNames;
             //this.LastName = LastName;
         }
-        public bool Operator  (Id1,id2)
+        public bool Operator  (Id1,Id2)
         {
             if(Id1 == Id2) 
             {
@@ -39,7 +39,7 @@ namespace Operator_Assignment
             }
            
         }
-        public bool Operator(Id1, id2)
+        public bool Operator(Id1, Id2)
         {
             if (Id1 != Id2)
             {
