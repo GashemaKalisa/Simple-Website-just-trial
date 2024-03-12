@@ -14,3 +14,6 @@ It contain method assignment that contain opetation
 Utilizing methods in conjunction with classes in C#
 It contain abstract class creation and to give method
 It contain comparison Operator  in Operator overloading
+This project is constructed using ASP.net mvc
+it contain CRUD operation
+It contain some logic that helps in the sytem
